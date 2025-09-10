@@ -1,0 +1,20 @@
+ao criar um arquivo em html, necessário ele ser index.html
+<h1>-><h6> tamanho do titulo(não pode haver dois do mesmo na mesma estrutura)
+<hr/> separar titulos
+<p> paragrafo
+<a href="link"> para adicionar um link
+<b><strong> = é para deixar em negrito, em um só vizual, no outro é semantica
+<br> = quebra de linha
+<i><em> italico, em um só vizual, no outro é semantica
+<mark> marca texto
+<del> = da um corte na palavra como se tivesse deletada
+<small> = diminuir a fonte palavra
+<span> estilização em css, ou enjetado via js
+<blockquote> aplicação de margem
+<header> separar como cabeçalho
+<nav> seção da pagina
+<footer> roda pé
+&copy; = simbolo de copyright
+<main> conteudo principal
+<article> artigos das sections
+<section> separador de seções

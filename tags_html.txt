@@ -18,3 +18,8 @@ ao criar um arquivo em html, necessário ele ser index.html
 <main> conteudo principal
 <article> artigos das sections
 <section> separador de seções
+<aside> bara lateral, costuma ser utilizado com css
+<div> para fazer modificações em partes especificas do códigos, podendo se usado com css ou js
+<ol> lista ordenada
+<li> para adicionar na lista algo
+<ul> lista comum

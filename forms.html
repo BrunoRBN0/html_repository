@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <form>
+        <label for="name-client">Insira seu nome:</label>
+        <input type="text" id="name-client" placeholder="Your Name"/><br/>
+        <label for="number-phone">Insira seu número(com DDD):</label>
+        <input type="number" id="number-phone" placeholder="Your phone number"/><br/>
+        <label for="email-user">Insira seu email:</label>
+        <input type="email" id="email-user" placeholder="Your email"/><br/>
+        <h2>Termos de contrato</h2>
+        <p>
+            Eu aceito seguir namorando com Bruno Ronaldo Bernades Nadcimento, mesmo se ele estiver feio, sem dinheiro<br/>
+            e se ele ficar paralitico, pois meu amor por ele vale mais do que qualquer problema fisico, financeiro ou<br/>
+            de saúde.
+        </p>
+        <input type="radio" name="escolha" id="aceito"/><label for="aceito">Aceito</label><br/>
+        <input type="radio" name="escolha" id="rejeito"/><label for="rejeito">Rejeito</label><br/>
+        <input type="radio" name="escolha" id="talvez"/><label for="talvez">Talvez</label><br/>
+        <label>Dito isso, o que eu, Bruno Ronaldo, devo melhorar:</label><br/>
+        <select multiple>
+            <option>Arrumar melhor a casa</option>
+            <option>Se dedicar na limpeza</option>
+            <option>Me amar mais</option>
+            <option>Prestar mais atenção aos detalhes</option>
+            <option>Outros:</option>
+        </select>
+        <br/>
+        <textarea placeholder="Inserir oq devo mudar"></textarea>
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpar</button>
+        <br/>
+        <input type="checkbox" id="selecionado"/><label for="selecionado">Então casaremos</label>
+    </form>
+</body>
+</html>

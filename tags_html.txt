@@ -51,3 +51,9 @@ name="algo ai" = para deixar opção unica a pergunta
 <option> quais as resposta para selecionar
 <textarea> caixa de texto
 <button type=""> ele coloca um botão, e maneira que tu selecionar o tipo do botão, ele reage de uma forma
+
+Midia:
+<img src="./lugar onde está a midia/arquivo de midia" alt="Uma abelha numa flor amarela"/> para adicionar foto
+<audio controls src="./lugar onde está a midia/arquivo de midia"> adicionar um audio
+<video controls src="./lugar onde está a midia/arquivo de midia"> adicionar um video
+caso queira pegar uma imagem, video ou audio da internet sem baixar, basta copiar o link da foto e colocar no lugar de onde vem o arquivo.
